@@ -1,0 +1,163 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* *{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.header{
+
+  
+  border: 2px solid black;
+}
+.header{
+  display: flex;
+}
+.logo{
+  width: 200px;
+  position: relative;
+  top: 0px;
+}
+.nav-items{
+  position: absolute;
+  right: 10px;
+}
+.nav-items ul li a{
+  color: black;
+  text-decoration: none;
+}
+.nav-items ul{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.nav-items ul li{
+  list-style: none;
+  padding: 20px;
+  
+}
+.nav-items ul li:hover{
+  text-decoration: underline;
+}
+.Search input{
+  margin: 10px;
+  
+}
+.res-container{
+  background-color: 	#F0F0F0	;
+  margin: 20px;
+  height: 480px;
+  width: 190px;
+  
+  
+}
+.res-container:hover{
+  border: 2px solid  black;
+}
+.res-container img{
+  margin-top: 5px;
+ padding-left: 11px;
+  height: 100px;
+  width: 90%;
+  
+  
+  
+}
+.res-container .cuisines{
+  
+  word-break:break-all;
+  
+
+}
+
+
+.res-container p{
+  font-size: large;
+  font-weight: 800;
+  
+  font-style: italic;
+  
+}
+.res-container p:hover {
+  text-decoration: underline;
+  
+
+}
+
+.Search{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Search button{
+  padding: 5px;
+  cursor: pointer;
+  display: inline-block;
+
+}
+.filter{
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.filter .button{
+  margin-left: 45px;
+}
+.box1{
+  height: 100px;
+  width: 100px;
+  background-color: gray;
+}
+.headBoxes{
+  display: flex;
+  
+  flex-flow: wrap;
+}
+.headBoxes .boxes{
+  margin: 20px;
+  height: 480px;
+  width: 190px;
+  background-color: #E0E0E0;
+
+}
+.login{
+  position: relative;
+  top: 5px;
+  height: 40px;
+  width: 60px;
+}
+.Search a{
+  color: black;
+  text-decoration: none;
+}
+.User-card{
+  margin: 10px;
+  border: 1px solid black;
+  padding: 10px;
+
+}
+.Header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.BaseHead{
+  margin: 30px;
+  border: 20px solid #C7C4BF;
+ 
+  height: 150px;
+  width: 500px;
+  border-radius: 25px;
+  padding: 20px;
+}
+.ResName{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ResName h1{
+  margin : 10px 0px 0px 0px;
+  
+}  */
