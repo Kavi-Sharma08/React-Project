@@ -4,7 +4,7 @@ import Contact from '../components/Contact'
 describe('Contact', () => {
     it('Contact render', () => {
         render(<Contact/>);
-        screen.debug();
+        screen.getByRole('heading')
         
     })
     
